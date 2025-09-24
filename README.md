@@ -7,33 +7,6 @@ Dokumen ini menjelaskan cara menjalankan dan mengembangkan aplikasi **Todo List*
 - Tandai selesai/belum selesai
 - Penyimpanan: Penyimpanan berbasis session/array
 
-## Struktur Proyek
-```
-php_todo_project/
-  studi-kasus-php-dasar-aplikasi-todolist/
-    App.php
-    BusinessLogic/
-      AddTodoList.php
-      RemoveTodoList.php
-      ShowTodoList.php
-    Helper/
-      Input.php
-    Model/
-      TodoList.php
-    Test/
-      TestAddTodoList.php
-      TestInput.php
-      TestRemoveTodoList.php
-      TestShowTodoList.php
-      TestViewAddTodoList.php
-      TestViewRemoveTodoList.php
-      TestViewShowTodoList.php
-    View/
-      ViewAddTodoList.php
-      ViewRemoveTodoList.php
-      ViewShowTodoList.php
-```
-
 ## Cara Menjalankan (Lokal)
 1. Pastikan PHP 8.0+ sudah terpasang.
 2. Masuk ke folder proyek ini.
